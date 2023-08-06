@@ -5,3 +5,9 @@
 1. Open the inspect menu on your very browser.
 2. Go to Console and Type.
 3. localStorage.clear() [For Clearing the existing storage]
+
+##### For Mobile:
+1. Go to browsers Settings
+2. Go to Site Settings
+3. Go to Data Stored
+4. Delete (....github.io)[Deleting the existing Storage]
